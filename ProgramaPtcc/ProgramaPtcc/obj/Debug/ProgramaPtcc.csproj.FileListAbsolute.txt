@@ -1,0 +1,293 @@
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+T:\Usuarios\INFORMATICA\3A ETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.FrmCad.resources
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+T:\Usuarios\INFORMATICA\3AETIM\PTCC\LeoeRodrigo\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserBol.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadAlu.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadFunc.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadProf.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCons.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserMat.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserTur.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltAl.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltBol.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltFunc.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltMat.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltProf.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltTur.resources
+C:\Users\Monica\Documents\3º ETIM-INFO\TCC\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Login.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Login.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltAl.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltBol.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltFunc.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltMat.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltProf.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltTur.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserBol.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadAlu.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadFunc.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadProf.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCons.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserMat.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserTur.resources
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+C:\Users\3aetim\Desktop\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Login.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltAl.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadAlu.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Data.SqlServerCe.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CopyComplete
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCons.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Login.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltAl.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadAlu.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCons.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Data.SqlServerCe.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CopyComplete
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Entidades.UserBoletim.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserHorario.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe.config
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Data.SqlServerCe.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.dll
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Commands.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Core.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.MicrosoftSqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.Relational.Design.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServer.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.OptionsModel.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\Remotion.Linq.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Collections.Immutable.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\bin\Debug\System.Interactive.Async.xml
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Entidades.UserBoletim.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Form1.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Login.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Properties.Resources.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Splash.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltAl.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserAltTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadBol.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadAlu.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadFunc.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadProf.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCons.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadMat.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserCadTur.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserHorario.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.GenerateResource.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CoreCompileInputs.cache
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csproj.CopyComplete
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.exe
+F:\ETEC\3 ANO\PTCC\ProgramaPtccFinal\ProgramaPtcc2107\ProgramaPtcc (1)\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.pdb
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.Entidades.UserBoletim.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.UserHorario.resources
+F:\ETEC\3 ANO\PTCC\ProgramaPtcc\ProgramaPtcc\obj\Debug\ProgramaPtcc.csprojResolveAssemblyReference.cache
