@@ -7,11 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 using ProgramaPtcc.Entidades;
 
 namespace ProgramaPtcc
 {
-    public partial class Login : Form
+    public partial class Login : MetroForm
     {
         Color red = Color.Red;
         public Login()
@@ -45,21 +46,45 @@ namespace ProgramaPtcc
         {
             string pass = txtPass.Text;
             string log = txtLog.Text;
-            ProfessorDAO pro = new ProfessorDAO();
-            bool check = pro.Login(log, pass);
-            if (check)
+            if (tgl_pa.Checked)
             {
-                this.Hide();
-                Global.F1.Show();
-            }
+                AlunoDAO adao = new AlunoDAO();
+                bool check = adao.Login(log, pass);
+                if (check)
+                {
+                    this.Hide();
+                    Global.F1.Show();
+                    Global.F1.ChangePermi();
+                }
+                else
+                {
+                    pcbLog.BackColor = red;
+                    pcbPass.BackColor = red;
+                    lblErro.Visible = true;
+                    txtLog.Focus();
+                    txtLog.SelectAll();
+                    txtPass.Clear();
+                }
+            } //Login Aluno
             else
             {
-                pcbLog.BackColor = red;
-                pcbPass.BackColor = red;
-                lblErro.Visible = true;
-                txtLog.Focus();
-                txtLog.SelectAll();
-                txtPass.Clear();
+                ProfessorDAO pro = new ProfessorDAO();
+                bool check = pro.Login(log, pass);
+                if (check)
+                {
+                    this.Hide();
+                    Global.F1.Show();
+                    Global.F1.ChangePermi();
+                }
+                else
+                {
+                    pcbLog.BackColor = red;
+                    pcbPass.BackColor = red;
+                    lblErro.Visible = true;
+                    txtLog.Focus();
+                    txtLog.SelectAll();
+                    txtPass.Clear();
+                }
             }
         }
 

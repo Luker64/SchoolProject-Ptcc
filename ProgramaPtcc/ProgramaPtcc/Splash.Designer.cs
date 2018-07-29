@@ -34,13 +34,14 @@
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.lbl_splash = new System.Windows.Forms.Label();
+            this.mPB1 = new MetroFramework.Controls.MetroProgressBar();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // timersplash
             // 
             this.timersplash.Enabled = true;
-            this.timersplash.Interval = 500;
+            this.timersplash.Interval = 50;
             this.timersplash.Tick += new System.EventHandler(this.timersplash_Tick);
             // 
             // progressBar1
@@ -70,12 +71,22 @@
             this.lbl_splash.TabIndex = 2;
             this.lbl_splash.Text = "Seja Bem Vindo!";
             // 
+            // mPB1
+            // 
+            this.mPB1.Location = new System.Drawing.Point(-4, 378);
+            this.mPB1.Name = "mPB1";
+            this.mPB1.Size = new System.Drawing.Size(256, 23);
+            this.mPB1.Style = MetroFramework.MetroColorStyle.Blue;
+            this.mPB1.TabIndex = 3;
+            this.mPB1.Theme = MetroFramework.MetroThemeStyle.Light;
+            // 
             // Splash
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(100)))), ((int)(((byte)(200)))));
             this.ClientSize = new System.Drawing.Size(250, 400);
+            this.Controls.Add(this.mPB1);
             this.Controls.Add(this.lbl_splash);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.progressBar1);
@@ -96,5 +107,6 @@
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lbl_splash;
+        private MetroFramework.Controls.MetroProgressBar mPB1;
     }
 }

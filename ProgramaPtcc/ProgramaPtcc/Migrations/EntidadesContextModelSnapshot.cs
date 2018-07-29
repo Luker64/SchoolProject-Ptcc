@@ -31,6 +31,8 @@ namespace ProgramaPtcc.Migrations
 
                     b.Property<string>("NomeResp");
 
+                    b.Property<string>("Senha");
+
                     b.Property<int>("Telefone");
 
                     b.HasKey("NumMat");

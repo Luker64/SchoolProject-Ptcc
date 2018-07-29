@@ -366,6 +366,7 @@ namespace ProgramaPtcc {
                 dgv1.Columns["CodTurma"].HeaderText = "Código da Turma";
                 dgv1.Columns["NomeResp"].HeaderText = "Nome do Responsável";
                 dgv1.Columns["Turma"].Visible = false;
+                dgv1.Columns["Senha"].Visible = false;
                 //dgv1.Columns[7].Visible = false;
             }
             catch{MessageBox.Show("Ocorreu Um erro");}
@@ -379,7 +380,7 @@ namespace ProgramaPtcc {
                 List<Professor> profs = new List<Professor>();
                 if (txtfiltro.Text == null || txtfiltro.Text == "")
                 {
-                    var search = from p in context.Professores select p;
+                    var search = from p in context.Professores join m in context.Materias on p.IdMat equals m.IdMat select p;
                     foreach (var p in search)
                     {
                         profs.Add(p);

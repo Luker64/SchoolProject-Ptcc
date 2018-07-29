@@ -33,15 +33,19 @@ namespace ProgramaPtcc
 
         private void btn_alttur_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(txtid.Text);
-            Turma t = dao.BuscaPorId(Id);
-            t.Sala = txtSal.Text;
-            t.NumAlunos = int.Parse(txtNalun.Text);
-            t.Horario = txtHor.Text;
-            dao.Alt();
-            btn_limptur_Click(sender, e);
+            try
+            {
+                int Id = int.Parse(txtid.Text);
+                Turma t = dao.BuscaPorId(Id);
+                t.Sala = txtSal.Text;
+                t.NumAlunos = int.Parse(txtNalun.Text);
+                t.Horario = txtHor.Text;
+                dao.Alt();
+                btn_limptur_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
 
-        }
+}
 
         private void btnbuscar_Click(object sender, EventArgs e)
         {

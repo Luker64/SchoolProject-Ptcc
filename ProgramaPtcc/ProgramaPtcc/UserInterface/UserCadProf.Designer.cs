@@ -390,6 +390,7 @@
             this.txtSenha.Location = new System.Drawing.Point(414, 50);
             this.txtSenha.Multiline = true;
             this.txtSenha.Name = "txtSenha";
+            this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(173, 20);
             this.txtSenha.TabIndex = 12;
             // 

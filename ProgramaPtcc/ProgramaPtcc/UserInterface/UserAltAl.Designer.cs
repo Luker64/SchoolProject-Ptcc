@@ -35,6 +35,9 @@
             this.lbl_idade = new System.Windows.Forms.Label();
             this.lbl_nome = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.lblSenha = new System.Windows.Forms.Label();
+            this.txtsenha = new System.Windows.Forms.TextBox();
             this.btn_altal = new System.Windows.Forms.Button();
             this.btn_limpal = new System.Windows.Forms.Button();
             this.btn_voltal = new System.Windows.Forms.Button();
@@ -55,6 +58,7 @@
             this.txtb_id = new System.Windows.Forms.TextBox();
             this.txtb_turma = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -69,7 +73,7 @@
             this.lbl_email.AutoSize = true;
             this.lbl_email.BackColor = System.Drawing.Color.White;
             this.lbl_email.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_email.Location = new System.Drawing.Point(152, 282);
+            this.lbl_email.Location = new System.Drawing.Point(153, 251);
             this.lbl_email.Name = "lbl_email";
             this.lbl_email.Size = new System.Drawing.Size(58, 20);
             this.lbl_email.TabIndex = 21;
@@ -80,7 +84,7 @@
             this.lbl_telresp.AutoSize = true;
             this.lbl_telresp.BackColor = System.Drawing.Color.White;
             this.lbl_telresp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_telresp.Location = new System.Drawing.Point(126, 324);
+            this.lbl_telresp.Location = new System.Drawing.Point(127, 293);
             this.lbl_telresp.Name = "lbl_telresp";
             this.lbl_telresp.Size = new System.Drawing.Size(84, 20);
             this.lbl_telresp.TabIndex = 20;
@@ -91,7 +95,7 @@
             this.lbl_nomeresp.AutoSize = true;
             this.lbl_nomeresp.BackColor = System.Drawing.Color.White;
             this.lbl_nomeresp.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_nomeresp.Location = new System.Drawing.Point(23, 245);
+            this.lbl_nomeresp.Location = new System.Drawing.Point(24, 214);
             this.lbl_nomeresp.Name = "lbl_nomeresp";
             this.lbl_nomeresp.Size = new System.Drawing.Size(193, 20);
             this.lbl_nomeresp.TabIndex = 19;
@@ -102,7 +106,7 @@
             this.lbl_turma.AutoSize = true;
             this.lbl_turma.BackColor = System.Drawing.Color.White;
             this.lbl_turma.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_turma.Location = new System.Drawing.Point(152, 206);
+            this.lbl_turma.Location = new System.Drawing.Point(153, 175);
             this.lbl_turma.Name = "lbl_turma";
             this.lbl_turma.Size = new System.Drawing.Size(64, 20);
             this.lbl_turma.TabIndex = 18;
@@ -113,7 +117,7 @@
             this.lbl_idade.AutoSize = true;
             this.lbl_idade.BackColor = System.Drawing.Color.White;
             this.lbl_idade.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_idade.Location = new System.Drawing.Point(156, 167);
+            this.lbl_idade.Location = new System.Drawing.Point(157, 136);
             this.lbl_idade.Name = "lbl_idade";
             this.lbl_idade.Size = new System.Drawing.Size(60, 20);
             this.lbl_idade.TabIndex = 17;
@@ -124,7 +128,7 @@
             this.lbl_nome.AutoSize = true;
             this.lbl_nome.BackColor = System.Drawing.Color.White;
             this.lbl_nome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_nome.Location = new System.Drawing.Point(156, 129);
+            this.lbl_nome.Location = new System.Drawing.Point(157, 98);
             this.lbl_nome.Name = "lbl_nome";
             this.lbl_nome.Size = new System.Drawing.Size(60, 20);
             this.lbl_nome.TabIndex = 15;
@@ -133,6 +137,9 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.pictureBox8);
+            this.panel1.Controls.Add(this.lblSenha);
+            this.panel1.Controls.Add(this.txtsenha);
             this.panel1.Controls.Add(this.btn_altal);
             this.panel1.Controls.Add(this.btn_limpal);
             this.panel1.Controls.Add(this.btn_voltal);
@@ -163,6 +170,37 @@
             this.panel1.Size = new System.Drawing.Size(600, 450);
             this.panel1.TabIndex = 22;
             // 
+            // pictureBox8
+            // 
+            this.pictureBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
+            this.pictureBox8.Enabled = false;
+            this.pictureBox8.Location = new System.Drawing.Point(241, 341);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(233, 5);
+            this.pictureBox8.TabIndex = 96;
+            this.pictureBox8.TabStop = false;
+            // 
+            // lblSenha
+            // 
+            this.lblSenha.AutoSize = true;
+            this.lblSenha.BackColor = System.Drawing.Color.White;
+            this.lblSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSenha.Location = new System.Drawing.Point(127, 326);
+            this.lblSenha.Name = "lblSenha";
+            this.lblSenha.Size = new System.Drawing.Size(66, 20);
+            this.lblSenha.TabIndex = 95;
+            this.lblSenha.Text = "Senha:";
+            // 
+            // txtsenha
+            // 
+            this.txtsenha.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txtsenha.Enabled = false;
+            this.txtsenha.Location = new System.Drawing.Point(241, 326);
+            this.txtsenha.Name = "txtsenha";
+            this.txtsenha.PasswordChar = '*';
+            this.txtsenha.Size = new System.Drawing.Size(232, 13);
+            this.txtsenha.TabIndex = 8;
+            // 
             // btn_altal
             // 
             this.btn_altal.Enabled = false;
@@ -170,7 +208,7 @@
             this.btn_altal.Location = new System.Drawing.Point(457, 374);
             this.btn_altal.Name = "btn_altal";
             this.btn_altal.Size = new System.Drawing.Size(100, 33);
-            this.btn_altal.TabIndex = 93;
+            this.btn_altal.TabIndex = 11;
             this.btn_altal.Text = "Alterar";
             this.btn_altal.UseVisualStyleBackColor = true;
             this.btn_altal.Click += new System.EventHandler(this.btn_altal_Click);
@@ -182,7 +220,7 @@
             this.btn_limpal.Location = new System.Drawing.Point(265, 374);
             this.btn_limpal.Name = "btn_limpal";
             this.btn_limpal.Size = new System.Drawing.Size(100, 33);
-            this.btn_limpal.TabIndex = 92;
+            this.btn_limpal.TabIndex = 10;
             this.btn_limpal.Text = "Limpar";
             this.btn_limpal.UseVisualStyleBackColor = true;
             this.btn_limpal.Click += new System.EventHandler(this.btn_limpal_Click);
@@ -193,7 +231,7 @@
             this.btn_voltal.Location = new System.Drawing.Point(49, 374);
             this.btn_voltal.Name = "btn_voltal";
             this.btn_voltal.Size = new System.Drawing.Size(100, 33);
-            this.btn_voltal.TabIndex = 91;
+            this.btn_voltal.TabIndex = 9;
             this.btn_voltal.Text = "Voltar";
             this.btn_voltal.UseVisualStyleBackColor = true;
             this.btn_voltal.Click += new System.EventHandler(this.btn_voltal_Click);
@@ -241,7 +279,7 @@
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox7.Enabled = false;
-            this.pictureBox7.Location = new System.Drawing.Point(240, 339);
+            this.pictureBox7.Location = new System.Drawing.Point(241, 308);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(233, 5);
             this.pictureBox7.TabIndex = 23;
@@ -251,7 +289,7 @@
             // 
             this.pictureBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox6.Enabled = false;
-            this.pictureBox6.Location = new System.Drawing.Point(240, 297);
+            this.pictureBox6.Location = new System.Drawing.Point(241, 266);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(233, 5);
             this.pictureBox6.TabIndex = 22;
@@ -261,7 +299,7 @@
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox5.Enabled = false;
-            this.pictureBox5.Location = new System.Drawing.Point(240, 260);
+            this.pictureBox5.Location = new System.Drawing.Point(241, 229);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(233, 5);
             this.pictureBox5.TabIndex = 21;
@@ -271,7 +309,7 @@
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox4.Enabled = false;
-            this.pictureBox4.Location = new System.Drawing.Point(240, 221);
+            this.pictureBox4.Location = new System.Drawing.Point(241, 190);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(233, 5);
             this.pictureBox4.TabIndex = 20;
@@ -281,7 +319,7 @@
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox3.Enabled = false;
-            this.pictureBox3.Location = new System.Drawing.Point(240, 182);
+            this.pictureBox3.Location = new System.Drawing.Point(241, 151);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(233, 5);
             this.pictureBox3.TabIndex = 19;
@@ -291,7 +329,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(150)))), ((int)(((byte)(200)))));
             this.pictureBox1.Enabled = false;
-            this.pictureBox1.Location = new System.Drawing.Point(240, 144);
+            this.pictureBox1.Location = new System.Drawing.Point(241, 113);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(233, 5);
             this.pictureBox1.TabIndex = 17;
@@ -301,7 +339,7 @@
             // 
             this.txtb_tel.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_tel.Enabled = false;
-            this.txtb_tel.Location = new System.Drawing.Point(240, 324);
+            this.txtb_tel.Location = new System.Drawing.Point(241, 293);
             this.txtb_tel.Name = "txtb_tel";
             this.txtb_tel.Size = new System.Drawing.Size(232, 13);
             this.txtb_tel.TabIndex = 7;
@@ -310,7 +348,7 @@
             // 
             this.txtb_email.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_email.Enabled = false;
-            this.txtb_email.Location = new System.Drawing.Point(240, 282);
+            this.txtb_email.Location = new System.Drawing.Point(241, 251);
             this.txtb_email.Name = "txtb_email";
             this.txtb_email.Size = new System.Drawing.Size(232, 13);
             this.txtb_email.TabIndex = 6;
@@ -319,7 +357,7 @@
             // 
             this.txtb_nome.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_nome.Enabled = false;
-            this.txtb_nome.Location = new System.Drawing.Point(240, 129);
+            this.txtb_nome.Location = new System.Drawing.Point(241, 98);
             this.txtb_nome.Name = "txtb_nome";
             this.txtb_nome.Size = new System.Drawing.Size(232, 13);
             this.txtb_nome.TabIndex = 2;
@@ -328,7 +366,7 @@
             // 
             this.txtb_nomeresp.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_nomeresp.Enabled = false;
-            this.txtb_nomeresp.Location = new System.Drawing.Point(240, 245);
+            this.txtb_nomeresp.Location = new System.Drawing.Point(241, 214);
             this.txtb_nomeresp.Name = "txtb_nomeresp";
             this.txtb_nomeresp.Size = new System.Drawing.Size(232, 13);
             this.txtb_nomeresp.TabIndex = 5;
@@ -337,7 +375,7 @@
             // 
             this.txtb_id.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_id.Enabled = false;
-            this.txtb_id.Location = new System.Drawing.Point(240, 167);
+            this.txtb_id.Location = new System.Drawing.Point(241, 136);
             this.txtb_id.Name = "txtb_id";
             this.txtb_id.Size = new System.Drawing.Size(232, 13);
             this.txtb_id.TabIndex = 3;
@@ -346,7 +384,7 @@
             // 
             this.txtb_turma.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtb_turma.Enabled = false;
-            this.txtb_turma.Location = new System.Drawing.Point(240, 206);
+            this.txtb_turma.Location = new System.Drawing.Point(241, 175);
             this.txtb_turma.Name = "txtb_turma";
             this.txtb_turma.Size = new System.Drawing.Size(232, 13);
             this.txtb_turma.TabIndex = 4;
@@ -360,6 +398,7 @@
             this.Size = new System.Drawing.Size(600, 422);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
@@ -399,5 +438,8 @@
         private System.Windows.Forms.Button btn_altal;
         private System.Windows.Forms.Button btn_limpal;
         private System.Windows.Forms.Button btn_voltal;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.Label lblSenha;
+        public System.Windows.Forms.TextBox txtsenha;
     }
 }

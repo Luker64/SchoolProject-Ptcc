@@ -42,21 +42,25 @@ namespace ProgramaPtcc
 
         private void btn_altfn_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(txtid.Text);
-            Funcionario f = dao.BuscaPorId(Id);
-            f.CarteiraTrab=txt_CdT.Text;
-            f.CPF=int.Parse(txt_CPF.Text);
-            f.Email=txt_Email.Text;
-            f.Enderaco=txt_End.Text;
-            f.FaixaComiss=int.Parse(txt_Faixa.Text);
-            f.DataNasc=txt_Nasc.Text;
-            f.Nome=txt_Nome.Text;
-            f.Profissao=txt_Prof.Text;
-            f.RG=txt_RG.Text;
-            f.Telefone=int.Parse(txt_Tel.Text);
-            dao.Alt();
-            btn_limpfn_Click(sender, e);
-        }
+            try
+            {
+                int Id = int.Parse(txtid.Text);
+                Funcionario f = dao.BuscaPorId(Id);
+                f.CarteiraTrab = txt_CdT.Text;
+                f.CPF = int.Parse(txt_CPF.Text);
+                f.Email = txt_Email.Text;
+                f.Enderaco = txt_End.Text;
+                f.FaixaComiss = int.Parse(txt_Faixa.Text);
+                f.DataNasc = txt_Nasc.Text;
+                f.Nome = txt_Nome.Text;
+                f.Profissao = txt_Prof.Text;
+                f.RG = txt_RG.Text;
+                f.Telefone = int.Parse(txt_Tel.Text);
+                dao.Alt();
+                btn_limpfn_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
+}
 
         private void UserAltFunc_Load(object sender, EventArgs e)
         {

@@ -27,6 +27,7 @@ namespace ProgramaPtcc {
             txtNummat.Clear();
             txtNota.Clear();
             txtFreq.Clear();
+            txtBim.Clear();
         }
 
         private void btn_voltbol_Click(object sender, EventArgs e)

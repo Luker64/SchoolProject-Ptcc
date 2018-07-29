@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 using ProgramaPtcc.Entidades;
 
 namespace ProgramaPtcc
@@ -15,7 +16,7 @@ namespace ProgramaPtcc
         {
             InitializeComponent();
 
-            escondeUser();
+            escondeUser();                       
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -220,6 +221,7 @@ namespace ProgramaPtcc
             plcad.BackColor = scol1;
             plhor.BackColor = scol1;
             plpesq.BackColor = scol1;
+            ChangePermi();
         }
         public void fecharTabs()
         {
@@ -265,6 +267,34 @@ namespace ProgramaPtcc
             userCons1.Visible = false;
             userBoletim1.Visible = false;
             userHorario1.Visible = false;
+        }
+
+        public void ChangePermi()
+        {
+            //MessageBox.Show(Global.Permissao.ToString());
+            if (Global.Permissao != 1)
+            {
+                plalt.Enabled = false;
+                lblalt.Enabled = false;
+                plalt.BackColor = Color.FromArgb(113,151,179);
+                if(Global.Permissao == 2)
+                {
+                    btncadalu.Enabled = false;
+                    btncadfunc.Enabled = false;
+                    btncadprof.Enabled = false;
+                    btncadmat.Enabled = false;
+                    btncadtur.Enabled = false;
+                }
+                else if (Global.Permissao == 3)
+                {
+                    plcad.Enabled = false;
+                    lblcad.Enabled = false;
+                    plcad.BackColor = Color.FromArgb(113, 151, 179);
+                    plpesq.Enabled = false;
+                    plpesq.BackColor = Color.FromArgb(113, 151, 179);
+                    lblpesq.Enabled = false;
+                }
+            }
         }
 
         private void plalt_Paint(object sender, PaintEventArgs e)

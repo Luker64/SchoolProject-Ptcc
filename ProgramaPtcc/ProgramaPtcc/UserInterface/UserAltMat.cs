@@ -31,13 +31,17 @@ namespace ProgramaPtcc
 
         private void btn_altmat_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(txtid.Text);
-            Materia m = dao.BuscaPorId(Id);
-            m.Nome = txtNomemat.Text;
-            dao.Alt();
-            btn_limpmat_Click(sender, e);
+            try
+            {
+                int Id = int.Parse(txtid.Text);
+                Materia m = dao.BuscaPorId(Id);
+                m.Nome = txtNomemat.Text;
+                dao.Alt();
+                btn_limpmat_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
 
-        }
+}
 
         private void btnbuscar_Click(object sender, EventArgs e)
         {

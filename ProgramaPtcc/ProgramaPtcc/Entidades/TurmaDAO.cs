@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,7 @@ namespace ProgramaPtcc.Entidades
         {
             try
             {
-                //CriaExcel(t.Horario);
+                CriaExcel(t.Horario);
                 context.Turmas.Add(t);
                 context.SaveChanges();
             }
@@ -50,12 +51,14 @@ namespace ProgramaPtcc.Entidades
 
         private void CriaExcel(string hor)
         {
-            _Application oApp = new Microsoft.Office.Interop.Excel.Application();
-            oApp.Visible = false;
+            //_Application oApp = new Microsoft.Office.Interop.Excel.Application();
+            //oApp.Visible = false;
 
-            Workbook oWorkbook = oApp.Workbooks.Add("F:\\ETEC\\3 ANO\\PTCC\\ProgramaPtcc2107\\ProgramaPtcc (1)\\ProgramaPtcc\\Horarios\\" + hor);
-            oWorkbook.Close();
-            oApp.Quit();
+            //Workbook oWorkbook = oApp.Workbooks.Add("F:\\ETEC\\3 ANO\\PTCC\\ProgramaPtcc2107\\ProgramaPtcc (1)\\ProgramaPtcc\\Horarios\\" + hor);
+            //oWorkbook.Close();
+            //oApp.Quit();
+
+            File.Copy(Global.excel + "h.xlsx", Global.excel + hor + ".xlsx");
         }
     }
 }

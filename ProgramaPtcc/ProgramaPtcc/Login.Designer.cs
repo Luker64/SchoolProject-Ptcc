@@ -40,6 +40,9 @@
             this.btnSair = new System.Windows.Forms.Button();
             this.btnOlho = new System.Windows.Forms.Button();
             this.lblErro = new System.Windows.Forms.Label();
+            this.tgl_pa = new MetroFramework.Controls.MetroToggle();
+            this.lblProf = new MetroFramework.Controls.MetroLabel();
+            this.lblalu = new MetroFramework.Controls.MetroLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbPass)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbLog)).BeginInit();
@@ -48,7 +51,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(78, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(91, 17);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(125, 125);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -154,19 +157,52 @@
             this.lblErro.AutoSize = true;
             this.lblErro.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblErro.ForeColor = System.Drawing.Color.Red;
-            this.lblErro.Location = new System.Drawing.Point(47, 343);
+            this.lblErro.Location = new System.Drawing.Point(45, 310);
             this.lblErro.Name = "lblErro";
             this.lblErro.Size = new System.Drawing.Size(220, 20);
             this.lblErro.TabIndex = 14;
             this.lblErro.Text = "Login ou Senha incorretos";
             this.lblErro.Visible = false;
             // 
+            // tgl_pa
+            // 
+            this.tgl_pa.AutoSize = true;
+            this.tgl_pa.DisplayStatus = false;
+            this.tgl_pa.Location = new System.Drawing.Point(130, 359);
+            this.tgl_pa.Name = "tgl_pa";
+            this.tgl_pa.Size = new System.Drawing.Size(50, 17);
+            this.tgl_pa.TabIndex = 15;
+            this.tgl_pa.Tag = "";
+            this.tgl_pa.Text = "Off";
+            this.tgl_pa.UseVisualStyleBackColor = true;
+            // 
+            // lblProf
+            // 
+            this.lblProf.AutoSize = true;
+            this.lblProf.Location = new System.Drawing.Point(49, 357);
+            this.lblProf.Name = "lblProf";
+            this.lblProf.Size = new System.Drawing.Size(64, 19);
+            this.lblProf.TabIndex = 16;
+            this.lblProf.Text = "Professor";
+            // 
+            // lblalu
+            // 
+            this.lblalu.AutoSize = true;
+            this.lblalu.Location = new System.Drawing.Point(198, 357);
+            this.lblalu.Name = "lblalu";
+            this.lblalu.Size = new System.Drawing.Size(43, 19);
+            this.lblalu.TabIndex = 17;
+            this.lblalu.Text = "Aluno";
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(300, 450);
+            this.ControlBox = false;
+            this.Controls.Add(this.lblalu);
+            this.Controls.Add(this.lblProf);
+            this.Controls.Add(this.tgl_pa);
             this.Controls.Add(this.lblErro);
             this.Controls.Add(this.btnOlho);
             this.Controls.Add(this.btnSair);
@@ -178,11 +214,11 @@
             this.Controls.Add(this.txtLog);
             this.Controls.Add(this.btnEntrar);
             this.Controls.Add(this.pictureBox1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Login";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
+            this.Resizable = false;
+            this.Style = MetroFramework.MetroColorStyle.Blue;
+            this.Theme = MetroFramework.MetroThemeStyle.Light;
             this.Load += new System.EventHandler(this.Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pcbPass)).EndInit();
@@ -205,5 +241,8 @@
         private System.Windows.Forms.Button btnSair;
         private System.Windows.Forms.Button btnOlho;
         private System.Windows.Forms.Label lblErro;
+        private MetroFramework.Controls.MetroToggle tgl_pa;
+        private MetroFramework.Controls.MetroLabel lblProf;
+        private MetroFramework.Controls.MetroLabel lblalu;
     }
 }

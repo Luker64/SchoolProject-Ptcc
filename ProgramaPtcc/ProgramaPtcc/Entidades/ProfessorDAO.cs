@@ -31,6 +31,14 @@ namespace ProgramaPtcc.Entidades
                 Professor pro = context.Professores.FirstOrDefault(p => p.Login == log);
                 if (pro.Senha == pass)
                 {
+                    if(pro.Id == 1)
+                    {
+                        Global.Permissao = 1;
+                    }
+                    if (pro.Id != 1)
+                    {
+                        Global.Permissao = 2;
+                    }
                     return true;
                 }
                 return false;

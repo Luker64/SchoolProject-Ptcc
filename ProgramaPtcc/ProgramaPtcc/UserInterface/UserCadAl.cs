@@ -24,6 +24,7 @@ namespace ProgramaPtcc {
             txtnome.Clear();
             txtid.Clear();
             txtemail.Clear();
+            txtb_senha.Clear();
         }
 
         private void btn_voltal_Click(object sender, EventArgs e)
@@ -40,6 +41,7 @@ namespace ProgramaPtcc {
             a.NomeResp = txtnomeresp.Text;
             a.Email = txtemail.Text;
             a.Telefone = int.Parse(txttel.Text);
+            a.Senha = txtb_senha.Text;
             AlunoDAO adao = new AlunoDAO();
             adao.Add(a);
             btn_limpal_Click(sender, e);

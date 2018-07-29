@@ -35,6 +35,7 @@ namespace ProgramaPtcc
 
         private void btn_altbol_Click(object sender, EventArgs e)
         {
+            try { 
             int Id = int.Parse(txtid.Text);
             Boletim b = dao.BuscaPorId(Id);
             b.NumMat = int.Parse(txtNummat.Text);
@@ -43,6 +44,8 @@ namespace ProgramaPtcc
             b.Nota = double.Parse(txtNota.Text);
             dao.Alt();
             btn_limpbol_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
         }
 
         private void btnbuscar_Click(object sender, EventArgs e)

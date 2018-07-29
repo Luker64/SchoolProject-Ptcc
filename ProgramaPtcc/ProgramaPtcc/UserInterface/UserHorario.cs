@@ -31,8 +31,8 @@ namespace ProgramaPtcc
                 oApp.Visible = false;
 
                 string text = txt_filtro.Text;
-                Workbook oWorkbook = oApp.Workbooks.Open("F:\\ETEC\\3 ANO\\PTCC\\ProgramaPtcc\\Horarios\\" + text);
-                 Worksheet sheet = (Worksheet)oWorkbook.Worksheets[1];
+                Workbook oWorkbook = oApp.Workbooks.Open(Global.excel + text);
+                      Worksheet sheet = (Worksheet)oWorkbook.Worksheets[1];
 
                 GetValues(sheet);
 

@@ -55,5 +55,21 @@ namespace ProgramaPtcc.Entidades
             }
             catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); return null; }
         }
+
+        public bool Login(string log, string pass)
+        {
+            try
+            {
+                Aluno al = context.Alunos.FirstOrDefault(a => a.NumMat.ToString() == log);
+                if(al.Senha == pass)
+                {
+                    Global.AlunoId = al.NumMat;
+                    Global.Permissao = 3;
+                    return true;
+                }
+                return false;
+            }
+            catch { return false; }
+        }
     }
 }

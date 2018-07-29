@@ -65,21 +65,6 @@
             this.pcbcadturclick = new System.Windows.Forms.PictureBox();
             this.pcbcadbolclick = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.btnclose = new System.Windows.Forms.ToolStripButton();
-            this.ts1 = new System.Windows.Forms.ToolStrip();
-            this.pnlalt = new System.Windows.Forms.Panel();
-            this.btnalal = new System.Windows.Forms.Button();
-            this.btnaltur = new System.Windows.Forms.Button();
-            this.btnalbol = new System.Windows.Forms.Button();
-            this.pcbalal = new System.Windows.Forms.PictureBox();
-            this.btnalmat = new System.Windows.Forms.Button();
-            this.btnalprof = new System.Windows.Forms.Button();
-            this.btnalfun = new System.Windows.Forms.Button();
-            this.pcbalfun = new System.Windows.Forms.PictureBox();
-            this.pcbalprof = new System.Windows.Forms.PictureBox();
-            this.pcbalmat = new System.Windows.Forms.PictureBox();
-            this.pcbaltur = new System.Windows.Forms.PictureBox();
-            this.pcbalbol = new System.Windows.Forms.PictureBox();
             this.userHorario1 = new ProgramaPtcc.UserHorario();
             this.userBoletim1 = new ProgramaPtcc.Entidades.UserBoletim();
             this.userCons1 = new ProgramaPtcc.UserCons();
@@ -95,6 +80,21 @@
             this.userAltFunc1 = new ProgramaPtcc.UserAltFunc();
             this.userAltBol1 = new ProgramaPtcc.UserAltBol();
             this.userAltAl1 = new ProgramaPtcc.UserAltAl();
+            this.btnclose = new System.Windows.Forms.ToolStripButton();
+            this.ts1 = new System.Windows.Forms.ToolStrip();
+            this.pnlalt = new System.Windows.Forms.Panel();
+            this.btnalal = new System.Windows.Forms.Button();
+            this.btnaltur = new System.Windows.Forms.Button();
+            this.btnalbol = new System.Windows.Forms.Button();
+            this.pcbalal = new System.Windows.Forms.PictureBox();
+            this.btnalmat = new System.Windows.Forms.Button();
+            this.btnalprof = new System.Windows.Forms.Button();
+            this.btnalfun = new System.Windows.Forms.Button();
+            this.pcbalfun = new System.Windows.Forms.PictureBox();
+            this.pcbalprof = new System.Windows.Forms.PictureBox();
+            this.pcbalmat = new System.Windows.Forms.PictureBox();
+            this.pcbaltur = new System.Windows.Forms.PictureBox();
+            this.pcbalbol = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.plhor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pcbhor)).BeginInit();
@@ -373,7 +373,7 @@
             // 
             this.pnlcad.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pnlcad.BackColor = System.Drawing.SystemColors.Control;
+            this.pnlcad.BackColor = System.Drawing.Color.White;
             this.pnlcad.Controls.Add(this.btncadalu);
             this.pnlcad.Controls.Add(this.btncadtur);
             this.pnlcad.Controls.Add(this.btncadbol);
@@ -388,7 +388,7 @@
             this.pnlcad.Controls.Add(this.pcbcadbolclick);
             this.pnlcad.Location = new System.Drawing.Point(200, 0);
             this.pnlcad.Name = "pnlcad";
-            this.pnlcad.Size = new System.Drawing.Size(576, 28);
+            this.pnlcad.Size = new System.Drawing.Size(460, 28);
             this.pnlcad.TabIndex = 14;
             this.pnlcad.Visible = false;
             // 
@@ -534,165 +534,6 @@
             this.panel2.Size = new System.Drawing.Size(600, 422);
             this.panel2.TabIndex = 15;
             // 
-            // btnclose
-            // 
-            this.btnclose.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.btnclose.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.btnclose.Image = ((System.Drawing.Image)(resources.GetObject("btnclose.Image")));
-            this.btnclose.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.btnclose.Name = "btnclose";
-            this.btnclose.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.btnclose.Size = new System.Drawing.Size(23, 22);
-            this.btnclose.Text = "toolStripButton2";
-            this.btnclose.Click += new System.EventHandler(this.btnclose_Click);
-            // 
-            // ts1
-            // 
-            this.ts1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.btnclose});
-            this.ts1.Location = new System.Drawing.Point(0, 0);
-            this.ts1.Name = "ts1";
-            this.ts1.Size = new System.Drawing.Size(800, 25);
-            this.ts1.TabIndex = 9;
-            this.ts1.Text = "toolStrip1";
-            // 
-            // pnlalt
-            // 
-            this.pnlalt.BackColor = System.Drawing.SystemColors.Control;
-            this.pnlalt.Controls.Add(this.btnalal);
-            this.pnlalt.Controls.Add(this.btnaltur);
-            this.pnlalt.Controls.Add(this.btnalbol);
-            this.pnlalt.Controls.Add(this.pcbalal);
-            this.pnlalt.Controls.Add(this.btnalmat);
-            this.pnlalt.Controls.Add(this.btnalprof);
-            this.pnlalt.Controls.Add(this.btnalfun);
-            this.pnlalt.Controls.Add(this.pcbalfun);
-            this.pnlalt.Controls.Add(this.pcbalprof);
-            this.pnlalt.Controls.Add(this.pcbalmat);
-            this.pnlalt.Controls.Add(this.pcbaltur);
-            this.pnlalt.Controls.Add(this.pcbalbol);
-            this.pnlalt.Location = new System.Drawing.Point(200, 0);
-            this.pnlalt.Name = "pnlalt";
-            this.pnlalt.Size = new System.Drawing.Size(576, 28);
-            this.pnlalt.TabIndex = 24;
-            this.pnlalt.Visible = false;
-            // 
-            // btnalal
-            // 
-            this.btnalal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnalal.Location = new System.Drawing.Point(385, 2);
-            this.btnalal.Name = "btnalal";
-            this.btnalal.Size = new System.Drawing.Size(75, 23);
-            this.btnalal.TabIndex = 21;
-            this.btnalal.TabStop = false;
-            this.btnalal.Text = "Aluno";
-            this.btnalal.UseVisualStyleBackColor = true;
-            this.btnalal.Click += new System.EventHandler(this.btnalal_Click);
-            // 
-            // btnaltur
-            // 
-            this.btnaltur.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnaltur.Location = new System.Drawing.Point(308, 2);
-            this.btnaltur.Name = "btnaltur";
-            this.btnaltur.Size = new System.Drawing.Size(75, 23);
-            this.btnaltur.TabIndex = 5;
-            this.btnaltur.Text = "Turma";
-            this.btnaltur.UseVisualStyleBackColor = true;
-            this.btnaltur.Click += new System.EventHandler(this.btnaltur_Click);
-            // 
-            // btnalbol
-            // 
-            this.btnalbol.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnalbol.Location = new System.Drawing.Point(231, 2);
-            this.btnalbol.Name = "btnalbol";
-            this.btnalbol.Size = new System.Drawing.Size(75, 23);
-            this.btnalbol.TabIndex = 4;
-            this.btnalbol.Text = "Boletim";
-            this.btnalbol.UseVisualStyleBackColor = true;
-            this.btnalbol.Click += new System.EventHandler(this.btnalbol_Click);
-            // 
-            // pcbalal
-            // 
-            this.pcbalal.Location = new System.Drawing.Point(385, 23);
-            this.pcbalal.Name = "pcbalal";
-            this.pcbalal.Size = new System.Drawing.Size(75, 5);
-            this.pcbalal.TabIndex = 15;
-            this.pcbalal.TabStop = false;
-            // 
-            // btnalmat
-            // 
-            this.btnalmat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnalmat.Location = new System.Drawing.Point(154, 2);
-            this.btnalmat.Name = "btnalmat";
-            this.btnalmat.Size = new System.Drawing.Size(75, 23);
-            this.btnalmat.TabIndex = 3;
-            this.btnalmat.Text = "Matéria";
-            this.btnalmat.UseVisualStyleBackColor = true;
-            this.btnalmat.Click += new System.EventHandler(this.btnalmat_Click);
-            // 
-            // btnalprof
-            // 
-            this.btnalprof.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnalprof.Location = new System.Drawing.Point(77, 2);
-            this.btnalprof.Name = "btnalprof";
-            this.btnalprof.Size = new System.Drawing.Size(75, 23);
-            this.btnalprof.TabIndex = 2;
-            this.btnalprof.Text = "Professor";
-            this.btnalprof.UseVisualStyleBackColor = true;
-            this.btnalprof.Click += new System.EventHandler(this.btnalprof_Click);
-            // 
-            // btnalfun
-            // 
-            this.btnalfun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnalfun.Location = new System.Drawing.Point(0, 2);
-            this.btnalfun.Name = "btnalfun";
-            this.btnalfun.Size = new System.Drawing.Size(75, 23);
-            this.btnalfun.TabIndex = 1;
-            this.btnalfun.TabStop = false;
-            this.btnalfun.Text = "Funcionário";
-            this.btnalfun.UseVisualStyleBackColor = true;
-            this.btnalfun.Click += new System.EventHandler(this.btnalfun_Click);
-            // 
-            // pcbalfun
-            // 
-            this.pcbalfun.Location = new System.Drawing.Point(0, 23);
-            this.pcbalfun.Name = "pcbalfun";
-            this.pcbalfun.Size = new System.Drawing.Size(75, 5);
-            this.pcbalfun.TabIndex = 16;
-            this.pcbalfun.TabStop = false;
-            // 
-            // pcbalprof
-            // 
-            this.pcbalprof.Location = new System.Drawing.Point(77, 23);
-            this.pcbalprof.Name = "pcbalprof";
-            this.pcbalprof.Size = new System.Drawing.Size(75, 5);
-            this.pcbalprof.TabIndex = 17;
-            this.pcbalprof.TabStop = false;
-            // 
-            // pcbalmat
-            // 
-            this.pcbalmat.Location = new System.Drawing.Point(154, 23);
-            this.pcbalmat.Name = "pcbalmat";
-            this.pcbalmat.Size = new System.Drawing.Size(75, 5);
-            this.pcbalmat.TabIndex = 18;
-            this.pcbalmat.TabStop = false;
-            // 
-            // pcbaltur
-            // 
-            this.pcbaltur.Location = new System.Drawing.Point(308, 23);
-            this.pcbaltur.Name = "pcbaltur";
-            this.pcbaltur.Size = new System.Drawing.Size(75, 5);
-            this.pcbaltur.TabIndex = 19;
-            this.pcbaltur.TabStop = false;
-            // 
-            // pcbalbol
-            // 
-            this.pcbalbol.Location = new System.Drawing.Point(231, 23);
-            this.pcbalbol.Name = "pcbalbol";
-            this.pcbalbol.Size = new System.Drawing.Size(75, 5);
-            this.pcbalbol.TabIndex = 20;
-            this.pcbalbol.TabStop = false;
-            // 
             // userHorario1
             // 
             this.userHorario1.Location = new System.Drawing.Point(0, 0);
@@ -812,11 +653,172 @@
             this.userAltAl1.Size = new System.Drawing.Size(600, 422);
             this.userAltAl1.TabIndex = 8;
             // 
+            // btnclose
+            // 
+            this.btnclose.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.btnclose.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.btnclose.Image = ((System.Drawing.Image)(resources.GetObject("btnclose.Image")));
+            this.btnclose.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.btnclose.Name = "btnclose";
+            this.btnclose.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.btnclose.Size = new System.Drawing.Size(23, 22);
+            this.btnclose.Text = "toolStripButton2";
+            this.btnclose.Click += new System.EventHandler(this.btnclose_Click);
+            // 
+            // ts1
+            // 
+            this.ts1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.btnclose});
+            this.ts1.Location = new System.Drawing.Point(0, 0);
+            this.ts1.Name = "ts1";
+            this.ts1.Size = new System.Drawing.Size(800, 25);
+            this.ts1.TabIndex = 9;
+            this.ts1.Text = "toolStrip1";
+            // 
+            // pnlalt
+            // 
+            this.pnlalt.BackColor = System.Drawing.Color.White;
+            this.pnlalt.Controls.Add(this.btnalal);
+            this.pnlalt.Controls.Add(this.btnaltur);
+            this.pnlalt.Controls.Add(this.btnalbol);
+            this.pnlalt.Controls.Add(this.pcbalal);
+            this.pnlalt.Controls.Add(this.btnalmat);
+            this.pnlalt.Controls.Add(this.btnalprof);
+            this.pnlalt.Controls.Add(this.btnalfun);
+            this.pnlalt.Controls.Add(this.pcbalfun);
+            this.pnlalt.Controls.Add(this.pcbalprof);
+            this.pnlalt.Controls.Add(this.pcbalmat);
+            this.pnlalt.Controls.Add(this.pcbaltur);
+            this.pnlalt.Controls.Add(this.pcbalbol);
+            this.pnlalt.Location = new System.Drawing.Point(200, 0);
+            this.pnlalt.Name = "pnlalt";
+            this.pnlalt.Size = new System.Drawing.Size(460, 28);
+            this.pnlalt.TabIndex = 24;
+            this.pnlalt.Visible = false;
+            // 
+            // btnalal
+            // 
+            this.btnalal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnalal.Location = new System.Drawing.Point(385, 2);
+            this.btnalal.Name = "btnalal";
+            this.btnalal.Size = new System.Drawing.Size(75, 23);
+            this.btnalal.TabIndex = 21;
+            this.btnalal.TabStop = false;
+            this.btnalal.Text = "Aluno";
+            this.btnalal.UseVisualStyleBackColor = true;
+            this.btnalal.Click += new System.EventHandler(this.btnalal_Click);
+            // 
+            // btnaltur
+            // 
+            this.btnaltur.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnaltur.Location = new System.Drawing.Point(308, 2);
+            this.btnaltur.Name = "btnaltur";
+            this.btnaltur.Size = new System.Drawing.Size(75, 23);
+            this.btnaltur.TabIndex = 5;
+            this.btnaltur.Text = "Turma";
+            this.btnaltur.UseVisualStyleBackColor = true;
+            this.btnaltur.Click += new System.EventHandler(this.btnaltur_Click);
+            // 
+            // btnalbol
+            // 
+            this.btnalbol.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnalbol.Location = new System.Drawing.Point(231, 2);
+            this.btnalbol.Name = "btnalbol";
+            this.btnalbol.Size = new System.Drawing.Size(75, 23);
+            this.btnalbol.TabIndex = 4;
+            this.btnalbol.Text = "Boletim";
+            this.btnalbol.UseVisualStyleBackColor = true;
+            this.btnalbol.Click += new System.EventHandler(this.btnalbol_Click);
+            // 
+            // pcbalal
+            // 
+            this.pcbalal.Location = new System.Drawing.Point(385, 23);
+            this.pcbalal.Name = "pcbalal";
+            this.pcbalal.Size = new System.Drawing.Size(75, 5);
+            this.pcbalal.TabIndex = 15;
+            this.pcbalal.TabStop = false;
+            // 
+            // btnalmat
+            // 
+            this.btnalmat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnalmat.Location = new System.Drawing.Point(154, 2);
+            this.btnalmat.Name = "btnalmat";
+            this.btnalmat.Size = new System.Drawing.Size(75, 23);
+            this.btnalmat.TabIndex = 3;
+            this.btnalmat.Text = "Matéria";
+            this.btnalmat.UseVisualStyleBackColor = true;
+            this.btnalmat.Click += new System.EventHandler(this.btnalmat_Click);
+            // 
+            // btnalprof
+            // 
+            this.btnalprof.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnalprof.Location = new System.Drawing.Point(77, 2);
+            this.btnalprof.Name = "btnalprof";
+            this.btnalprof.Size = new System.Drawing.Size(75, 23);
+            this.btnalprof.TabIndex = 2;
+            this.btnalprof.Text = "Professor";
+            this.btnalprof.UseVisualStyleBackColor = true;
+            this.btnalprof.Click += new System.EventHandler(this.btnalprof_Click);
+            // 
+            // btnalfun
+            // 
+            this.btnalfun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnalfun.Location = new System.Drawing.Point(0, 2);
+            this.btnalfun.Name = "btnalfun";
+            this.btnalfun.Size = new System.Drawing.Size(75, 23);
+            this.btnalfun.TabIndex = 1;
+            this.btnalfun.TabStop = false;
+            this.btnalfun.Text = "Funcionário";
+            this.btnalfun.UseVisualStyleBackColor = true;
+            this.btnalfun.Click += new System.EventHandler(this.btnalfun_Click);
+            // 
+            // pcbalfun
+            // 
+            this.pcbalfun.Location = new System.Drawing.Point(0, 23);
+            this.pcbalfun.Name = "pcbalfun";
+            this.pcbalfun.Size = new System.Drawing.Size(75, 5);
+            this.pcbalfun.TabIndex = 16;
+            this.pcbalfun.TabStop = false;
+            // 
+            // pcbalprof
+            // 
+            this.pcbalprof.Location = new System.Drawing.Point(77, 23);
+            this.pcbalprof.Name = "pcbalprof";
+            this.pcbalprof.Size = new System.Drawing.Size(75, 5);
+            this.pcbalprof.TabIndex = 17;
+            this.pcbalprof.TabStop = false;
+            // 
+            // pcbalmat
+            // 
+            this.pcbalmat.Location = new System.Drawing.Point(154, 23);
+            this.pcbalmat.Name = "pcbalmat";
+            this.pcbalmat.Size = new System.Drawing.Size(75, 5);
+            this.pcbalmat.TabIndex = 18;
+            this.pcbalmat.TabStop = false;
+            // 
+            // pcbaltur
+            // 
+            this.pcbaltur.Location = new System.Drawing.Point(308, 23);
+            this.pcbaltur.Name = "pcbaltur";
+            this.pcbaltur.Size = new System.Drawing.Size(75, 5);
+            this.pcbaltur.TabIndex = 19;
+            this.pcbaltur.TabStop = false;
+            // 
+            // pcbalbol
+            // 
+            this.pcbalbol.Location = new System.Drawing.Point(231, 23);
+            this.pcbalbol.Name = "pcbalbol";
+            this.pcbalbol.Size = new System.Drawing.Size(75, 5);
+            this.pcbalbol.TabIndex = 20;
+            this.pcbalbol.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ControlBox = false;
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.pnlalt);
             this.Controls.Add(this.panel1);

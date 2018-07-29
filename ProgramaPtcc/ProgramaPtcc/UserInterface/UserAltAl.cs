@@ -29,6 +29,7 @@ namespace ProgramaPtcc
             txtb_nomeresp.Clear();
            txtb_tel.Clear();
           txtb_turma.Clear();
+            txtsenha.Clear();
         }
 
         private void btn_voltal_Click(object sender, EventArgs e)
@@ -38,17 +39,21 @@ namespace ProgramaPtcc
 
         private void btn_altal_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(txtid.Text);
-            Aluno a = DAO.BuscaPorId(Id);
-            a.Email = txtb_email.Text;
-            a.Idade = int.Parse(txtb_id.Text);
-            a.Nome = txtb_nome.Text;
-            a.NomeResp = txtb_nomeresp.Text;
-            a.Telefone = int.Parse(txtb_tel.Text);
-            a.CodTurma = int.Parse(txtb_turma.Text);
-            DAO.Alt();
-            btn_limpal_Click(sender, e);
-            
+            try
+            {
+                int Id = int.Parse(txtid.Text);
+                Aluno a = DAO.BuscaPorId(Id);
+                a.Email = txtb_email.Text;
+                a.Idade = int.Parse(txtb_id.Text);
+                a.Nome = txtb_nome.Text;
+                a.NomeResp = txtb_nomeresp.Text;
+                a.Telefone = int.Parse(txtb_tel.Text);
+                a.CodTurma = int.Parse(txtb_turma.Text);
+                a.Senha = txtsenha.Text;
+                DAO.Alt();
+                btn_limpal_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
         }
 
         private void btnbuscar_Click(object sender, EventArgs e)
@@ -63,12 +68,14 @@ namespace ProgramaPtcc
                 txtb_nomeresp.Text = a.NomeResp;
                 txtb_tel.Text = a.Telefone.ToString();
                 txtb_turma.Text = a.CodTurma.ToString();
+                txtsenha.Text = a.Senha.ToString();
                 txtb_email.Enabled = true;
                 txtb_id.Enabled = true;
                 txtb_nome.Enabled = true;
                 txtb_nomeresp.Enabled = true;
                 txtb_tel.Enabled = true;
                 txtb_turma.Enabled = true;
+                txtsenha.Enabled = true;
                 btn_altal.Enabled = true;
                 btn_limpal.Enabled = true;
             }

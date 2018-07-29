@@ -35,23 +35,27 @@ namespace ProgramaPtcc
 
         private void btn_alprof_Click(object sender, EventArgs e)
         {
-            int Id = int.Parse(txtid.Text);
-            Professor p = dao.BuscaPorId(Id);
-            p.CarteiraTrab=txt_CdT.Text;
-            p.CPF=int.Parse(txt_CPF.Text);
-            p.Email=txt_Email.Text;
-            p.Enderaco=txt_End.Text;
-             p.FaixaComiss=double.Parse(txt_Faixa.Text);
-            p.DataNasc=txt_Nasc.Text;
-            p.Nome=txt_Nome.Text;
-            p.RG=txt_RG.Text;
-            p.Telefone=int.Parse(txt_Tel.Text);
-            p.Login=txtLogin.Text;
-            p.Senha=txtSenha.Text;
-            p.IdMat = int.Parse(txtIdMat.Text);
-            dao.Alt();
-            btn_limpprof_Click(sender, e);
-        }
+            try
+            {
+                int Id = int.Parse(txtid.Text);
+                Professor p = dao.BuscaPorId(Id);
+                p.CarteiraTrab = txt_CdT.Text;
+                p.CPF = int.Parse(txt_CPF.Text);
+                p.Email = txt_Email.Text;
+                p.Enderaco = txt_End.Text;
+                p.FaixaComiss = double.Parse(txt_Faixa.Text);
+                p.DataNasc = txt_Nasc.Text;
+                p.Nome = txt_Nome.Text;
+                p.RG = txt_RG.Text;
+                p.Telefone = int.Parse(txt_Tel.Text);
+                p.Login = txtLogin.Text;
+                p.Senha = txtSenha.Text;
+                p.IdMat = int.Parse(txtIdMat.Text);
+                dao.Alt();
+                btn_limpprof_Click(sender, e);
+            }
+            catch { MessageBox.Show("Ocorreu algum erro, tente novamente"); }
+}
 
         private void btnbuscar_Click(object sender, EventArgs e)
         {

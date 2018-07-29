@@ -120,6 +120,7 @@
             // 
             // dgv1
             // 
+            this.dgv1.BackgroundColor = System.Drawing.Color.White;
             this.dgv1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv1.Location = new System.Drawing.Point(75, 153);
             this.dgv1.Name = "dgv1";

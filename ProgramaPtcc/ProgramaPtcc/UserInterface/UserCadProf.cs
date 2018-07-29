@@ -33,6 +33,7 @@ namespace ProgramaPtcc
             txtCdT.Clear();
             txtLogin.Clear();
             txtSenha.Clear();
+            txtIdMat.Clear();
         }
 
         private void btn_voltprof_Click(object sender, EventArgs e)
